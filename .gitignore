@@ -34,5 +34,5 @@ yarn-error.log*
 .vercel
 
 #Firebase
-/utils/db
+/utils/db/serviceAccountKey.json
 
